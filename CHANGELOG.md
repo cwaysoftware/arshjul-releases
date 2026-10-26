@@ -1,3 +1,15 @@
+## v1.0.2 -- 2026-10-26
+
+Release v1.0.2
+Du ser nu vilken version av Årshjul du har, längst ner till vänster. Klicka på den för att se vad som är nytt.
+Du får en notis om Årshjul inte når databasen. Den nås bara från kontoret, så anslut till kontorsnätet eller slå på VPN.
+Du får en notis när någon tilldelar dig en uppgift. Fyll i din jobbmejl under Organisation › Personer & roller om du inte kopplats automatiskt.
+Årshjul finns i menyraden: klicka på hjulet för att se kommande uppgifter och bocka av dem direkt.
+Påminnelser om uppgifter som förfaller idag och imorgon.
+Appen fortsätter köras när du stänger fönstret och startar när du loggar in.
+Koncernen visas nu som koncern, inte som ett av bolagen.
+
+
 ## v1.0.1 -- 2026-10-26
 
 Release v1.0.1
