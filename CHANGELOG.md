@@ -1,3 +1,10 @@
+## v1.0.3 -- 2026-11-02
+
+Du behöver inte längre skriva ditt Mac-lösenord när Årshjul har uppdaterats. Logga in med jobbkontot en gång till efter den här uppdateringen.
+Når Årshjul inte databasen ser du nu varför och vad du ska göra: slå på kontorets VPN. Appen försöker själv igen var 15:e sekund.
+Tar det lång tid att öppna Årshjul påminns du om att slå på kontorets VPN.
+Om Årshjul inte kan starta visas en ruta som förklarar varför.
+
 ## v1.0.2 -- 2026-10-26
 
 Release v1.0.2
